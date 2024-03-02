@@ -3,11 +3,11 @@
 [Data Background](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-background)</br>
 [Data Preprocessing and analysis](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-preprocessing-and-analysis)
 * [EDA](https://github.com/vinahuang97/final_project_data_science/tree/main#eda)
-  - [Where do the guest come from?](https://github.com/vinahuang97/final_project_data_science/tree/main#:~:text=EDA-,Where%20do%20the%20guest%20come%20from%3F,-The%20guests%20come)
-  - [How much do guests pay for a room per night?](https://github.com/vinahuang97/final_project_data_science/tree/main#:~:text=How%20much%20do%20guests%20pay%20for%20a%20room%20per%20night%3F)
-  - [how much the price vary over the year?](https://github.com/vinahuang97/final_project_data_science/tree/main#:~:text=how%20much%20the%20price%20vary%20over%20the%20year%3F)
-  - [Which are the busy month ?](https://github.com/vinahuang97/final_project_data_science/tree/main#:~:text=Which%20are%20the%20busy%20month%20%3F)
-  - [How many booking are cancel?](https://github.com/vinahuang97/final_project_data_science/tree/main#:~:text=How%20many%20booking%20are%20cancel%3F)
+  - [Where do the guest come from?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--where-do-the-guest-come-from)
+  - [How much do guests pay for a room per night?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-much-do-guests-pay-for-a-room-per-night)
+  - [how much the price vary over the year?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-much-the-price-vary-over-the-year)
+  - [Which are the busy month ?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--which-are-the-busy-month-)
+  - [How many booking are cancel?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-many-booking-are-cancel)
 
 ## Data Background
 The data comes from two different hotels. One resort hotel and one city hotel. The two hotels are located in Portugal, namely the Algarve resort hotel and the Lisbon city hotel. the data contains bookings that will arrive between 1 July 2015 and 31 August 2017, including bookings that have effectively arrived and bookings that have been cancelled. The data contains 32 variables and 119.390 hotel reservations.</br>
