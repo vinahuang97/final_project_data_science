@@ -1,19 +1,23 @@
 # Hotel Booking Cancellation Prediction
 ## Outline
 [Data Background](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-background)</br>
-[Data Preprocessing and analysis](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-preprocessing-and-analysis)
-* [EDA](https://github.com/vinahuang97/final_project_data_science/tree/main#eda)
-  - [Where do the guest come from?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--where-do-the-guest-come-from)
-  - [How much do guests pay for a room per night?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-much-do-guests-pay-for-a-room-per-night)
-  - [how much the price vary over the year?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-much-the-price-vary-over-the-year)
-  - [Which are the busy month ?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--which-are-the-busy-month-)
-  - [How many booking are cancel?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-many-booking-are-cancel)
-* [Matrix corellation](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#matrix-correlation)
-[Machine learning model](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#machine-learning-model)
-* [Baseline model](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#baseline-model)
-* [best model confusion matrix](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#confusion-matrix)
-* [feature importance](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#feature-importance)
-[Action & Recomendation](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#action--recommendation)
+
+[Data Preprocessing and analysis](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-preprocessing-and-analysis)</br>
+  * [EDA](https://github.com/vinahuang97/final_project_data_science/tree/main#eda)</br>
+    - [Where do the guest come from?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--where-do-the-guest-come-from)</br>
+    - [How much do guests pay for a room per night?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-much-do-guests-pay-for-a-room-per-night)</br>
+    - [how much the price vary over the year?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-much-the-price-vary-over-the-year)</br>
+    - [Which are the busy month ?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--which-are-the-busy-month-)</br>
+    - [How many booking are cancel?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-many-booking-are-cancel)</br>
+  * [Matrix corellation](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#matrix-correlation)</br>
+  
+[Machine learning model](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#machine-learning-model)</br>
+  * [Baseline model](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#baseline-model)</br>
+  * [best model confusion matrix](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#confusion-matrix)</br>
+  * [feature importance](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#feature-importance)</br>
+
+[Action & Recomendation](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#action--recommendation)</br>
+
 [Appendix](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#appendix)
 
 ## Data Background
