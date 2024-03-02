@@ -1,4 +1,4 @@
-![image](https://github.com/vinahuang97/final_project_data_science/assets/144708018/130fafa9-2af5-4cce-ac2f-e1d381d58e78)# Hotel Booking Cancellation Prediction
+# Hotel Booking Cancellation Prediction
 ## Outline
 [Data Background](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-background)</br>
 [Data Preprocessing and analysis](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-preprocessing-and-analysis)
