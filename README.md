@@ -1,4 +1,4 @@
-# Hotel Booking Cancellation Prediction
+![image](https://github.com/vinahuang97/final_project_data_science/assets/144708018/130fafa9-2af5-4cce-ac2f-e1d381d58e78)# Hotel Booking Cancellation Prediction
 ## Outline
 [Data Background](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-background)</br>
 [Data Preprocessing and analysis](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-preprocessing-and-analysis)
@@ -46,6 +46,37 @@ From the data above we know that the room rate depends on the room type</br>
   - Resort hotel bookings canceled: 7,976 (23 %)
   - City hotel bookings canceled: 16,049 (30 %)
 
-  
+### Matrix correlation
+![matrix correlaiton](https://github.com/vinahuang97/final_project_data_science/blob/main/final%20project%20pic/matrix%20correlation.png)
+
+There are no high correlation (>0.83) between features
+
+## Machine learning model
+### Baseline model
+In this case, we need to see some metric evaluation:
+- Precision(false positive): to know the exact model in cancelation booking
+- Recall(false negative): to find out the number of errors in determining cancel bookings
+
+![baseline model](https://github.com/vinahuang97/final_project_data_science/blob/main/final%20project%20pic/baseline%20model.png)
+
+The best model is Catboost, Because it’s has the biggest recall and model accuracy
+
+### Confusion Matrix
+![confusion matrix catboost](https://github.com/vinahuang97/final_project_data_science/blob/main/final%20project%20pic/cm%20catboost.png)
+
+- 19035 bookings were correctly predicted as not canceled (True Negatives).
+- 16 bookings were incorrectly predicted as canceled when they were actually not canceled (False Positives).
+- 114  bookings were incorrectly predicted as not canceled when they were actually canceled (False Negatives).
+- 7004 bookings were correctly predicted as canceled (True Positives).
+
+## feature importance
+![feature importance](https://github.com/vinahuang97/final_project_data_science/blob/main/final%20project%20pic/feature%20importance.png)
+
+## Action & Recommendation
+![action & recommendation](https://github.com/vinahuang97/final_project_data_science/blob/main/final%20project%20pic/action%20%26%20recommendation.png)
+
+## appendix
+https://www.kaggle.com/code/marcuswingen/eda-of-bookings-and-ml-to-predict-cancelations (dataset)</br>
+https://www.sciencedirect.com/science/article/pii/S2352340918315191 (about dataset)
 
 
