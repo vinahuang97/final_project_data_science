@@ -1,6 +1,6 @@
 # Hotel Booking Cancellation Prediction
 ### Outline
-![Data Background](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-background)
+[Data Background](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-background)
 
 
 
