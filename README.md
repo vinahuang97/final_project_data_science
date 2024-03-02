@@ -8,6 +8,13 @@
   - [how much the price vary over the year?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-much-the-price-vary-over-the-year)
   - [Which are the busy month ?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--which-are-the-busy-month-)
   - [How many booking are cancel?](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#--how-many-booking-are-cancel)
+* [Matrix corellation](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#matrix-correlation)
+[Machine learning model](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#machine-learning-model)
+* [Baseline model](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#baseline-model)
+* [best model confusion matrix](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#confusion-matrix)
+* [feature importance](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#feature-importance)
+[Action & Recomendation](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#action--recommendation)
+[Appendix](https://github.com/vinahuang97/final_project_data_science/tree/main?tab=readme-ov-file#appendix)
 
 ## Data Background
 The data comes from two different hotels. One resort hotel and one city hotel. The two hotels are located in Portugal, namely the Algarve resort hotel and the Lisbon city hotel. the data contains bookings that will arrive between 1 July 2015 and 31 August 2017, including bookings that have effectively arrived and bookings that have been cancelled. The data contains 32 variables and 119.390 hotel reservations.</br>
