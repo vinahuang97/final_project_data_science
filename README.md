@@ -2,8 +2,8 @@
 ## Outline
 [Data Background](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-background)</br>
 [Data Preprocessing and analysis](https://github.com/vinahuang97/final_project_data_science?tab=readme-ov-file#data-preprocessing-and-analysis)
-* [EDA](https://github.com/vinahuang97/final_project_data_science/edit/main/README.md#eda-1)
-  - [Where do the guest come from?](https://github.com/vinahuang97/final_project_data_science/edit/main/README.md#:~:text=EDA-,Where%20do%20the%20guest%20come%20from%3F,-The%20guests%20come)
+* [EDA](https://github.com/vinahuang97/final_project_data_science/tree/main#eda)
+  - [Where do the guest come from?](https://github.com/vinahuang97/final_project_data_science/tree/main#:~:text=EDA-,Where%20do%20the%20guest%20come%20from%3F,-The%20guests%20come)
 
 
 ## Data Background
